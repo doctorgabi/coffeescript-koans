@@ -1,4 +1,5 @@
 # CoffeeScript Koans - koans to learn CoffeeScript #
+********Note: This didn't work in Chrome but had no problems in Firefox*******
 
 This work is based on Ben Hall's [Javascript Koans](https://github.com/BenHall/javascript-koans), 
 which in turn are based upon Edgecase's [Ruby koans](http://github.com/edgecase/ruby_koans). 
